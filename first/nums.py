@@ -12,4 +12,4 @@ def multiply(a, b):
 
 print(plus(2, 2))
 print(minus(2, 2))
-print(multiply(a, b))
+print(multiply(3, 3))
