@@ -10,6 +10,10 @@ def multiply(a, b):
     return a * b
 
 
+def divide(a, b):
+    return a / b
+
+
 print(plus(2, 2))
 print(minus(2, 2))
 print(multiply(3, 3))
