@@ -14,6 +14,10 @@ def divide(a, b):
     return a / b
 
 
+def double(a, b):
+    return a * 2 + b * 2
+
+
 print(plus(2, 2))
 print(minus(2, 2))
 print(multiply(3, 3))
